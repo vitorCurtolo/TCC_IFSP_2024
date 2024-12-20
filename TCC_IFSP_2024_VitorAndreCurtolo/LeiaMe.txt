@@ -1,0 +1,26 @@
+Nome: Vitor André Curtolo
+
+Título: COMO A UTILIZAÇÃO DE COMPUTAÇÃO EM NUVEM PODE AJUDAR A
+MINIMIZAR O EFEITO ESTUFA E ENFRAQUECER O AQUECIMENTO GLOBAL
+
+Resumo: Este trabalho explora a relação entre computação em nuvem e TI verde, analisando como
+práticas sustentáveis adotadas em data centers e infraestruturas de nuvem podem reduzir a
+pegada de carbono e o consumo de energia. O estudo busca compreender como a migração
+para a nuvem, aliada a práticas de TI verde, contribui para o combate ao aquecimento global,
+promovendo a eficiência energética e a sustentabilidade no setor de tecnologia da informação.
+A metodologia inclui uma revisão da literatura sobre computação em nuvem e TI verde, além
+de uma análise de estudos de caso de empresas que implementaram práticas sustentáveis em
+suas operações na nuvem. Em seguida, são examinados relatórios de sustentabilidade de
+grandes empresas de tecnologia (Google e AWS) para identificar as estratégias adotadas para
+reduzir emissões de CO₂ e melhorar a eficiência energética. Entre as práticas analisadas estão
+o uso de energia renovável, a implementação de tecnologias de IA para otimização de
+recursos e o compromisso com a economia circular. Os resultados mostram que a computação
+em nuvem, quando aliada a tecnologias sustentáveis, não só otimiza a infraestrutura de TI,
+mas também reduz significativamente o impacto ambiental das operações. Conclui-se que a
+computação em nuvem é uma ferramenta poderosa na luta contra as mudanças climáticas,
+com potencial para inspirar empresas a adotarem práticas sustentáveis e eficientes,
+contribuindo para um futuro mais ecológico e sustentável.
+
+Orientador:  Cecília Sosa Arias Peixoto
+
+Mês/Ano: Dezembro de 2024
